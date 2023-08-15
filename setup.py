@@ -10,7 +10,7 @@ setup(
     license='',
     packages=setuptools.find_packages(),
     install_requires=[
-        "numpy",
+        "numpy>=1.25.0",
         "scikit-learn==0.24.1",
         "dython==0.6.4.post1",
     ],
