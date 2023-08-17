@@ -12,7 +12,7 @@ setup(
     install_requires=[
         "numpy>=1.25.0",
         "scikit-learn>=0.24.1",
-        "dython==0.6.4.post1",
+        "dython~=0.6.4.post1",
         "torch>=1.9.1",
         "pandas>=1.2.4",
         "scipy>=1.4.1",
